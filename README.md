@@ -1,5 +1,8 @@
-[![star](https://gitee.com/muwengKing/picbed/badge/star.svg?theme=dark)](https://gitee.com/muwengKing/picbed/stargazers) [![fork](https://gitee.com/muwengKing/picbed/badge/fork.svg?theme=dark)](https://gitee.com/muwengKing/picbed/members)
-[![license](http://img.shields.io/badge/license-Apache%20v2-blue.svg)](http://www.apache.org/licenses/)
+[![GitHub forks](https://img.shields.io/github/forks/chengweng/picbed?logo=github)](https://github.com/chengweng/picbed/network)
+[![GitHub issues](https://img.shields.io/github/issues/chengweng/picbed?logo=github)](https://github.com/chengweng/picbed/issues)
+[![GitHub stars](https://img.shields.io/github/stars/chengweng/picbed?logo=github)](https://github.com/chengweng/picbed/stargazers)
+[![GitHub license](https://img.shields.io/github/license/chengweng/picbed?logo=apache)](https://github.com/chengweng/picbed/blob/master/LICENSE)
+[![GitHub badge](https://img.shields.io/badge/muweng-world-%23666)](https://img.shields.io/badge/muweng-world-%23666)
 
 # picbed                                                                                                            
 
